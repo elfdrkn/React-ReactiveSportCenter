@@ -11,4 +11,4 @@ This project allows users to access information about the classes, trainers, equ
 
 ## GIF
 
-![Sport Center with React] (assets/sportCenter.gif)
+![Sport Center with React] (src/assets/sportCenter.gif)
