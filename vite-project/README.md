@@ -10,7 +10,4 @@ This project allows users to access information about the classes, trainers, equ
 -You can calculate your BMI by entering your weight and height.
 
 
-<<<<<<< HEAD
-![Sport Center with React] (.)
-=======
->>>>>>> 99b905746c5bfad21b6272df203215e53877ea73
+![Sport Center with React](public/images/Sport_Center.gif)
