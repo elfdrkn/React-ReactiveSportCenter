@@ -11,4 +11,4 @@ This project allows users to access information about the classes, trainers, equ
 
 ## GIF
 
-![Sport Center with React] Sport_Center_Google_Chrome_2024_10_19_18_15_23_V1-ezgif.com-video-to-gif-converter.gif
+![Sport Center with React] 
