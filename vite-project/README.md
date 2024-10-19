@@ -1,8 +1,14 @@
-# React + Vite
+# Sport Center
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Previously, we created a sample website using HTML, CSS, and JavaScript. This time, we updated the project using React.
+This project allows users to access information about the classes, trainers, equipment, customer reviews, and live location of a sports center.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-You can get information about the classes.
+-You can browse through the trainers.
+-You can calculate your BMI by entering your weight and height.
+
+## GIF
+
+![Sport Center with React](./src/assets/sportCenter.gif)
