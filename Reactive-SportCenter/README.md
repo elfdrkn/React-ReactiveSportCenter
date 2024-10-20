@@ -6,7 +6,9 @@ This project allows users to access information about the classes, trainers, equ
 ## Features
 
 -You can get information about the classes.
+
 -You can browse through the trainers.
+
 -You can calculate your BMI by entering your weight and height.
 
 
